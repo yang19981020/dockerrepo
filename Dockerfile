@@ -1,1 +1,1 @@
-FROM gcr.io/eticloud/k8sec/clair-scan-server:2.1.6
+FROM gcr.io/eticloud/k8sec/kubei:1.0.11
